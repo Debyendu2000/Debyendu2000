@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data science student from India</h3>
 
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/63cbf737-f915-4ed9-8a61-852355957705)" width="600"/>
+  <img src="https://github.com/user-attachments/assets/63cbf737-f915-4ed9-8a61-852355957705" width="600"/>
 </p>
 
 ---
