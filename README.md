@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Debyendu Routh</h1>
+<h3 align="center">A passionate data science student from India</h3>
 
-<!--
-**Debyendu2000/Debyendu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://your-image-link.gif" alt="Animated Image" width="600"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **AI-powered projects** (Facial Emotion, Stock Price Prediction Using ML, DiabPredict, Brain Tumor Detection Using Deep Learning.)
+- 🌱 I’m currently learning **Deep Learning, Transformer Architecture, and Time Series,LSTM,BERT,LLM**
+- 📫 How to reach me: [debyendurouth223@gmail.com](mailto:debyendurouth223@gmail.com)
+- ⚡ Fun fact: I love exploring math in AI and work with innovative project ideas.
+
+---
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/debyendu-routh-083676320)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/Debyendu2000)
+
+---
+
+
+
