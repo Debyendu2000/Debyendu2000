@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data science student from India</h3>
 
 <p align="center">
-  <img src="https://your-image-link.gif" alt="Animated Image" width="600"/>
+  <img src="[https://your-image-link.gif](https://private-user-images.githubusercontent.com/179247656/447149746-f753daaf-bea1-4b6f-8d38-3b8f438625f8.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgwMjg0NDAsIm5iZiI6MTc0ODAyODE0MCwicGF0aCI6Ii8xNzkyNDc2NTYvNDQ3MTQ5NzQ2LWY3NTNkYWFmLWJlYTEtNGI2Zi04ZDM4LTNiOGY0Mzg2MjVmOC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUyMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MjNUMTkyMjIwWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MjI4MzAwNWVmMmRkYjY1MTkxODdiMmY2MjI2MTdmYzdmN2M3NTZlMmY1MzYxMjAxYzdkZjFhYjk4MDc3YzJmMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.OpZDxd0xoL2ITirT_PgbA5X5JHV-iFmhNJOsfrVjgD0)" width="600"/>
 </p>
 
 ---
