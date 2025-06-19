@@ -25,16 +25,12 @@
 
 - 📫 How to reach me: [debyendurouth223@gmail.com](mailto:debyendurouth223@gmail.com)
 
+- 🌐 **Connect with me:**
+  - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
+  - 🧑‍💻 [GitHub](https://github.com/your-github-username)
+  - 🌍 [Portfolio Website](https://your-portfolio-url.com)
+
 - ⚡ **Fun fact:** I’m passionate about exploring the **mathematical foundations of AI** and love working on **innovative, research-driven project ideas**.
-
-
----
-
-### 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/debyendu-routh-083676320)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)](https://github.com/Debyendu2000)
-
 ---
 
 
