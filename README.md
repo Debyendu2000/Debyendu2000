@@ -9,10 +9,24 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **AI-powered projects** (Facial Emotion, Stock Price Prediction Using ML, DiabPredict, Brain Tumor Detection Using Deep Learning.)
-- 🌱 I’m currently learning **Deep Learning, Transformer Architecture, and Time Series,LSTM,BERT,LLM**
+- 🔭 I’m currently working on several **AI-powered projects**, including:
+  - 🎯 **Facial Emotion Recognition**
+  - 📈 **Stock Price Prediction using Machine Learning**
+  - 🩺 **DiabPredict (Diabetes Prediction Model)**
+  - 🧠 **Brain Tumor Detection using Deep Learning**
+
+- 🎓 I have **qualified GATE in Mathematics**, which has strengthened my foundation in mathematical concepts critical to AI and data science.
+
+- 🌱 I’m actively learning and building expertise in:
+  - 🤖 **Deep Learning**
+  - 🔄 **Transformer Architectures**
+  - ⏳ **Time Series Analysis**
+  - 🧮 **LSTM, BERT, and Large Language Models (LLMs)**
+
 - 📫 How to reach me: [debyendurouth223@gmail.com](mailto:debyendurouth223@gmail.com)
-- ⚡ Fun fact: I love exploring math in AI and work with innovative project ideas.
+
+- ⚡ **Fun fact:** I’m passionate about exploring the **mathematical foundations of AI** and love working on **innovative, research-driven project ideas**.
+
 
 ---
 
