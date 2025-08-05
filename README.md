@@ -22,6 +22,10 @@
   - 🔄 **Transformer Architectures**
   - ⏳ **Time Series Analysis**
   - 🧮 **LSTM, BERT, and Large Language Models (LLMs)**
+  - 🌐 **Generative AI (Gen AI)**
+  - 🧠 **Retrieval-Augmented Generation (RAG)**
+  - 🔗 **LangChain**
+  - 📦 **Ollama**
 
 - 📫 How to reach me: [debyendurouth223@gmail.com](mailto:debyendurouth223@gmail.com)
 
@@ -31,7 +35,3 @@
   - 🌍 [Portfolio Website](https://debyendu2000.github.io/)
 
 - ⚡ **Fun fact:** I’m passionate about exploring the **mathematical foundations of AI** and love working on **innovative, research-driven project ideas**.
----
-
-
-
