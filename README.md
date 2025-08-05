@@ -21,7 +21,7 @@
   - 🤖 **Deep Learning**
   - 🔄 **Transformer Architectures**
   - ⏳ **Time Series Analysis**
-  - 🧮 **LSTM, BERT, and Large Language Models (LLMs)**
+  - 🧮 **LSTM, GRU, RNN, Bidirectional RNN, BERT, and Large Language Models (LLMs)**
   - 🌐 **Generative AI (Gen AI)**
   - 🧠 **Retrieval-Augmented Generation (RAG)**
   - 🔗 **LangChain**
