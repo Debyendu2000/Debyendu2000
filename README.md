@@ -33,5 +33,6 @@
   - 💼 [LinkedIn](https://www.linkedin.com/in/debyendu-routh-083676320/)
   - 🧑‍💻 [GitHub](https://github.com/Debyendu2000)
   - 🌍 [Portfolio Website](https://debyendu2000.github.io/)
+  - 🎯 [HackerRank](https://www.hackerrank.com/debyendurouth223)
 
 - ⚡ **Fun fact:** I’m passionate about exploring the **mathematical foundations of AI** and love working on **innovative, research-driven project ideas**.
