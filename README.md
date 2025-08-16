@@ -23,8 +23,10 @@
   - ⏳ **Time Series Analysis**
   - 🧮 **LSTM, GRU, RNN, Bidirectional RNN, BERT, and Large Language Models (LLMs)**
   - 🌐 **Generative AI (Gen AI)**
+  - 🌐 **Agentic AI**
   - 🧠 **Retrieval-Augmented Generation (RAG)**
   - 🔗 **LangChain**
+  - 🔗 **LangGraph**
   - 📦 **Ollama**
 
 - 📫 How to reach me: [debyendurouth223@gmail.com](mailto:debyendurouth223@gmail.com)
