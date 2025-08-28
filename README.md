@@ -9,12 +9,33 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on several **AI-powered projects**, including:
-  - ✨ **Life Counsellor Using RAG In Light Of Swami Vivekananda's Teachings**
-  - 🎯 **Facial Emotion Recognition**
-  - 📈 **Stock Price Prediction using Machine Learning**
-  - 🩺 **DiabPredict (Diabetes Prediction Model)**
-  - 🧠 **Brain Tumor Detection using Deep Learning**
+## 🔭 I’m currently working on several AI-powered projects:
+
+- ✨ **Life Counsellor Using RAG In Light Of Swami Vivekananda's Teachings**  
+  An AI system providing life guidance inspired by the teachings of Swami Vivekananda using Retrieval-Augmented Generation (RAG).
+
+- 🤖 **LangGraph Agentic AI**  
+  An intelligent workflow system that:
+  - Routes user queries into **math problems** or **general search**
+  - Solves math problems **step-by-step**
+  - Generates **similar math problems**
+  - Provides **mathematician contributions** for historical context
+  - Summarizes search results using **Google Generative AI**
+
+- 🎯 **Facial Emotion Recognition**  
+  Deep learning model for detecting human emotions from facial expressions in images and videos.
+
+- 📈 **Stock Price Prediction using Machine Learning**  
+  Predictive modeling of stock prices using historical data and machine learning algorithms.
+
+- 🩺 **DiabPredict (Diabetes Prediction Model)**  
+  Machine learning model to predict diabetes risk based on patient data.
+
+- 🧠 **Brain Tumor Detection using Deep Learning**  
+  CNN-based model for detecting and classifying brain tumors from MRI images.
+
+
+
   
 
 - 🎓 I have **qualified GATE in Mathematics**, which has strengthened my foundation in mathematical concepts critical to AI and data science.
