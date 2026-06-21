@@ -41,17 +41,27 @@
 - 🎓 I have **qualified GATE in Mathematics**, which has strengthened my foundation in mathematical concepts critical to AI and data science.
 
 - 🌱 I’m actively learning and building expertise in:
-  - 🤖 **Deep Learning**
-  - 🔄 **Transformer Architectures**
-  - ⏳ **Time Series Analysis**
-  - 🧮 **LSTM, GRU, RNN, Bidirectional RNN, BERT, and Large Language Models (LLMs)**
-  - 🌐 **Generative AI (Gen AI)**
-  - 🌐 **Agentic AI**
-  - 🧠 **Retrieval-Augmented Generation (RAG)**
-  - 🔗 **LangChain**
-  - 🔗 **LangGraph**
-  - 📦 **Ollama**
-  - ⚡ **FastAPI**
+### AI / Machine Learning
+
+* 🤖 **Deep Learning**
+* 🔄 **Transformer Architectures**
+* ⏳ **Time Series Analysis**
+* 🧮 **RNN, LSTM, GRU, Bidirectional RNN**
+* 🧠 **BERT and Large Language Models (LLMs)**
+
+### Generative AI Stack
+
+* 🌐 **Generative AI (Gen AI)**
+* 🤖 **Agentic AI**
+* 🧠 **Retrieval-Augmented Generation (RAG)**
+
+### Frameworks & Tools
+
+* ⚡ **FastAPI**
+* 🔗 **LangChain**
+* 🔗 **LangGraph**
+* 📦 **Ollama**
+
 
 - 📫 How to reach me: [debyendurouth223@gmail.com](mailto:debyendurouth223@gmail.com)
 
