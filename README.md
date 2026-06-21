@@ -51,6 +51,7 @@
   - 🔗 **LangChain**
   - 🔗 **LangGraph**
   - 📦 **Ollama**
+  - ⚡ **FastAPI**
 
 - 📫 How to reach me: [debyendurouth223@gmail.com](mailto:debyendurouth223@gmail.com)
 
