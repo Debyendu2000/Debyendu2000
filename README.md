@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debyendu Routh</h1>
-<h3 align="center">A passionate data science student from India</h3>
+<h3 align="center">AI & Data Science Professional</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/63cbf737-f915-4ed9-8a61-852355957705" width="600"/>
