@@ -16,9 +16,7 @@
 **July 2026 – Present**
 
 - Working as a full-time Associate Consultant.
-- Contributing to data-driven business solutions and analytics initiatives.
-- Applying expertise in Python, SQL, Machine Learning, Data Analytics, and AI technologies.
-- Collaborating with cross-functional teams to solve real-world business challenges and deliver impactful insights.
+
 
 #### AI/ML Engineer Intern | Rezolve AI
 **January 2026 – July 2026**
