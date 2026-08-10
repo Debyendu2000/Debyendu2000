@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Debyendu Routh</h1>
 <h3 align="center">Associate Consultant at EY | Former AI/ML Engineer Intern at Rezolve AI</h3>
 <h3 align="center">AI & Data Science Professional</h3>
@@ -89,4 +88,4 @@ CNN-based model for detecting and classifying brain tumors from MRI images.
 - 🎯 [HackerRank](https://www.hackerrank.com/debyendurouth223)
 
 - ⚡ **Fun fact:** I’m passionate about exploring the **mathematical foundations of AI** and love working on **innovative, research-driven project ideas**.
-```
+
